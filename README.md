@@ -1,2 +1,2 @@
-# Gerardo
-Proyecto 
+# 5to rojo gerardo 
+Proyecto pensamiento computacional 
